@@ -23,7 +23,7 @@ The whole process is designed to handle **platform heterogeneity** without losin
 | Platform              | Source                                                                                        | Nodes  / Edges (approx.)         | Period      |
 | --------------------- | --------------------------------------------------------------------------------------------- | -------------------------------- | ----------- |
 | **CollegeMsg**        | [SNAP](https://snap.stanford.edu/data/CollegeMsg.html)                                        | 1,899 / 59,835                    | 193 days    |
-| **Math Overflow**     | [SNAP](https://snap.stanford.edu/data/sx-mathoverflow.html) (a2q, c2q, c2a)                   | Large                            | 2,350 days  |
+| **Math Overflow**     | [SNAP](https://snap.stanford.edu/data/sx-mathoverflow.html) (a2q, c2q, c2a)                   | 24818 / 506550                            | 2,350 days  |
 | **Bluesky, Koo, Voat**| [MADOC (Zenodo)](https://zenodo.org/records/14637314)                                          | 23.1M users across platforms     | 2012–2024   |
 
 All data is publicly available. We automatically stream and parse the raw files during the data ingestion stage – no manual download is required (see [Getting Started](#getting-started)).
