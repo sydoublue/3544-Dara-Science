@@ -43,8 +43,8 @@ All data is publicly available. We automatically stream and parse the raw files 
 ├── configs/                # YAML/JSON configuration for windows, splits
 ├── outputs/                # Figures, model checkpoints, results
 ├── README.md
-├── requirements.txt
-└── LICENSE
+└──requirements.txt
+
 
 
 ---
