@@ -112,7 +112,9 @@ Instead of a single static graph, we use **trailing‑window snapshots**:
 
 ## Citation
 Pietro Panzarasa, Tore Opsahl, and Kathleen M. Carley. "Patterns and dynamics of users' behavior and interaction: Network analysis of an online community." Journal of the American Society for Information Science and Technology 60.5 (2009): 911-932.
+
 Ashwin Paranjape, Austin R. Benson, and Jure Leskovec. "Motifs in Temporal Networks." In Proceedings of the Tenth ACM International Conference on Web Search and Data Mining, 2017.
+
 Mitrovic Dankulov, M., Tomašević, A., Maletic, S., Andjelkovic, M., Vranic, A., Cvetkovic, D., Stupovski, B., Vudragovic, D., Major, S., & Bogojević, A. (2025). MADOC: Multi-Platform Aggregated Dataset of Online Communities (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14637314
 
 ## 🧪 Getting Started
@@ -123,6 +125,5 @@ git clone https://github.com/your-username/your-repo.git
 cd your-repo
 pip install -r requirements.txt
 
----
 
 
